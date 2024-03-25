@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYeQzIdDHvpAtESQdfRrSe5aFnVz4qLuUUA&usqp=CAU");
+    background-size: 100%;
+}
+#main {
+    text-align: center;
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+    width: 700px;
+    height: 300px;
+}
+#input {
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+}
+#button {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: tomato;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    color:cyan ;
+    cursor:pointer;
+}
+#button:hover {
+    background-color: red;
+}
+#reset {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: blue;
+    width: 120px;
+    height: 35px;
+    font-size: 25px;
+    color:rgb(177, 82, 82) ;
+    cursor:pointer;
+}
+#reset:hover{
+    background-color: rgb(19, 4, 73);
+}
